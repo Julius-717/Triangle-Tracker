@@ -8,11 +8,11 @@ h1{
 body{
   background-image: url(../img/pexels1.jpeg);
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: relative;
   background-size: cover;
 }
 #one{
-  float: right;
+  float: center;
   color: RED;
 }
 

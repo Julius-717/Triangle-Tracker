@@ -22,7 +22,12 @@ body{
   color: black;
   font-family:'joker';
   font-size: 40px;
+  text-align: center;
 }
 #two{
   float: inherit;
+}
+#three{
+  text-align: center;
+  
 }

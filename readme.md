@@ -1,7 +1,7 @@
 THE TRIANGLE TRACKER
-The application enables the user to know which triangle he/she is operating with, {3/12/2018}
-##Developers
-It has been developed By Ben and Stella
+The application enables the user to know which triangle he/she is operating with, 23/11/2019}
+## Developer
+It has been developed By Kash
 ## Description
 in this application, the user inputs 3 sides of the triangle. The application has the ability to detect
 whether it's an isosceles, scalene, equilateral or not a triangle at all.

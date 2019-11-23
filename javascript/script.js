@@ -7,7 +7,7 @@ var tstr = document.getElementById("num3").value;
 if (fstr > 0 && sstr > 0 && tstr > 0){
 if (fstr === sstr && sstr === tstr && fstr  === tstr)
 	{
-	alert('this is an equilateral triangle');
+	alert('this is an Equilateral triangle');
 }
 else if (fstr === sstr || sstr === tstr || fstr === tstr)
 {

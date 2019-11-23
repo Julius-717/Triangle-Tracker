@@ -10,7 +10,7 @@ body{
   background-color: #69458D;
   background-repeat: no-repeat;
   background-position: top;
-  background-size: auto;
+  background-size: cover;
 }
 #one{
   float: right;

@@ -7,7 +7,7 @@ It has been developed By Kash
 in this application, the user inputs 3 sides of the triangle. The application has the ability to detect
 whether it's an isosceles, scalene, equilateral or not a triangle at all.
 ## Setup/Installation Requirements
-you need not to install it. it's an open source program found on https://github.com/nyagajr/triangle-tracker
+you need not to install it. it's an open source program found on https://github.com/Julius-717/Triangle-Tracker
 It's the simplest app you can come across on
 ## Known Bugs
 There are no known bugs. If you come across one, please report to this email: muchokijnrbenson@gmail.com

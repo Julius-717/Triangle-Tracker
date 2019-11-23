@@ -17,4 +17,4 @@ The application has been developed using html, css and javascript
 If you have any suggestion on the improvement of the application, contact me through waynejulius10@gmail.com
 or on my github page @Julius-717
 ### License
-Copyright (c) 2018 **Ben and Stella**
+Copyright (c) 2018 **Kash**

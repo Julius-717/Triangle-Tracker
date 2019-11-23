@@ -21,7 +21,7 @@ body{
 #best{
   color: black;
   font-family:'joker';
-
+  font-size: 40px;
 }
 #two{
   float: inherit;

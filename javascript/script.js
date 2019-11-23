@@ -1,11 +1,5 @@
 var msg = function (){
 
-//fSide = []
-//sSide = []
-//tSide = []
-//fSide = document.getElementById("intro");
-//sSide.push(prompt('enter the second side of the triangle '));
-//tSide.push(prompt('enter the third side of the triangle '));
 var fstr = document.getElementById("num1").value;
 var sstr = document.getElementById("num2").value;
 var tstr = document.getElementById("num3").value;
@@ -20,7 +14,7 @@ else if (fstr === sstr || sstr === tstr || fstr === tstr)
   alert("This is an Isosceles triangle")
 }
 else {
-  alert("this is definitely a scalene triangle");
+  alert("this is definitely a Scalene triangle");
 }
 }
 else

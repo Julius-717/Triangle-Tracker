@@ -14,7 +14,7 @@ There are no known bugs. If you come across one, please report to this email: wa
 ## Technologies Used
 The application has been developed using html, css and javascript
 ## Support and contact details
-If you have any suggestion on the improvement of the application, contact me through muchokijnrbenson@gmail.com
+If you have any suggestion on the improvement of the application, contact me through waynejulius10@gmail.com
 or on my github page @nyagajr
 ### License
 Copyright (c) 2018 **Ben and Stella**

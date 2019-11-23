@@ -3,6 +3,7 @@ h1{
   color: black;
   font-family: 'digital-clock-font';
   font-size: 50px;
+  background-position: top;
 }
 
 body{
@@ -13,7 +14,7 @@ body{
 }
 #one{
   float: center;
-  color: RED;
+  color: black;
 }
 
 #best{
